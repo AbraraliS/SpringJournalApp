@@ -1,5 +1,6 @@
 package com.codezenix.journalapp.config;
 
+import com.codezenix.journalapp.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 
 
